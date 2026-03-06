@@ -1,0 +1,6 @@
+Trigram: ('Students', 'study', 'computer'), Probability: 0.2500
+Trigram: ('study', 'computer', 'science'), Probability: 0.2857
+Trigram: ('Students', 'study', 'data'), Probability: 0.2500
+Trigram: ('study', 'data', 'structures'), Probability: 0.2857
+Trigram: ('Teachers', 'teach', 'computer'), Probability: 0.2857
+Trigram: ('teach', 'computer', 'science'), Probability: 0.2857
